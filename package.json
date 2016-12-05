@@ -1,0 +1,11 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary.js",
+  "scripts": {
+    "test": "mocha binaryTest.js"
+  },
+  "author": "Jeannie Yamakawa <jkyamakawa@gmail.com>",
+  "license": "ISC"
+}
